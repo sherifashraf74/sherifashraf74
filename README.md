@@ -37,9 +37,9 @@ I enjoy working with a variety of technologies and tools, including:
 
 ## GitHub Stats
 
-![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashraf&show_icons=true&theme=radical)
+![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashraf74&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifashraf&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifashraf74&layout=compact&theme=radical)
 
 ![Views](https://komarev.com/ghpvc/?username=sherifashraf&color=blue)
 ![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1sZWN1YXJra2JydmgxcWxuM3BsY25wOWE5dmNxeDN4aTU0YWV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp)
