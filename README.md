@@ -15,7 +15,7 @@ I enjoy working with a variety of technologies and tools, including:
 "(https://github.com/user-attachments/assets/29d476f8-9b42-4484-b573-f69e531a3644)" alt="Android Studio" height="30" width="30"/>
   </a>
   <a href="https://kotlinlang.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg" alt="Kotlin" height="30" width="30"/>
+    <img src="[https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg)" alt="Kotlin" height="30" width="30"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" alt="C++" height="30" width="30"/>
