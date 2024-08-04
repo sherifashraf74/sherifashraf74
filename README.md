@@ -36,7 +36,7 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
   </a>
 </p>
 ## My Design & Development Skills
-![Design & Development GIF](https://media.giphy.com/media/3o6gE5SgIgKzqU7W4I/giphy.gif)
+![Developer GIF](https://media.giphy.com/media/3o6gE5SgIgKzqU7W4I/giphy.gif)
 
 
 ## GitHub Stats
