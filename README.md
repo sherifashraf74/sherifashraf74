@@ -1,7 +1,7 @@
-
+<iframe src="https://giphy.com/embed/3o85xwGZR5UtB6SiL6" width="480" height="293" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/conan-obrien-hello-oh-there-3o85xwGZR5UtB6SiL6">via GIPHY</a></p>
 ## Hi there I'm Sherif👋
 *A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development*
-![Developer GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+
 ## About Me
 I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills.
 - 🔭 I’m currently working on software engineering ...
