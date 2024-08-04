@@ -59,5 +59,3 @@ Contact
 </a>
 
 ---
-
-![Views](https://komarev.com/ghpvc/?username=sherifashraf&color=blue)
