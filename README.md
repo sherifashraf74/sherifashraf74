@@ -18,19 +18,19 @@ I enjoy working with a variety of technologies and tools, including:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="30" width="30"/>
   </a>
   <a href="https://isocpp.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" alt="C++" height="30" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="30"/>
   </a>
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" height="30" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="30" width="30"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" height="30" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="30" width="30"/>
   </a>
   <a href="https://www.figma.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" height="30" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="30" width="30"/>
   </a>
   <a href="https://www.android.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/android.svg" alt="Android" height="30" width="30"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" height="30" width="30"/>
   </a>
 </p>
 
