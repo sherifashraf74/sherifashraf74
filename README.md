@@ -36,8 +36,7 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
   </a>
 </p>
 ## My Design & Development Skills
-![Developer GIF](https://media.giphy.com/media/3o6gE5SgIgKzqU7W4I/giphy.gif)
-
+![Developer GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzdGZtenBjcW91Y3dwY21jdDNkajU2YjZibWE0aWVrdGFwZjY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNfIqjpCY1zqfaLmd8/giphy.webp)
 
 ## GitHub Stats
 
@@ -46,7 +45,7 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifashraf74&layout=compact&theme=radical)
 
 ![Views](https://komarev.com/ghpvc/?username=sherifashraf&color=blue)
-![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1sZWN1YXJra2JydmgxcWxuM3BsY25wOWE5dmNxeDN4aTU0YWV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp)
+![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVyeHpoMzY1NzBhNWFnem1mOW9hN2xhOTh3d2J2c2lubW9rcTdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp)
 
 Contact
 📫 How to reach me: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)  
