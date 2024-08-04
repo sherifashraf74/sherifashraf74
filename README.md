@@ -35,7 +35,6 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" height="30" width="30"/>
   </a>
 </p>
-## My Design & Development Skills
 
 ![Design & Development GIF](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzdGZtenBjcW91Y3dwY21jdDNkajU2YjZibWE0aWVrdGFwZjY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNfIqjpCY1zqfaLmd8/giphy.webp)
 
