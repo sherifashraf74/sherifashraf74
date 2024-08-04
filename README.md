@@ -1,10 +1,37 @@
 ## Hi there I'm Sherif👋
+*A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development*
 
+## About Me
+I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills.
 - 🔭 I’m currently working on software engineering ...
 - 🌱 I’m currently learning Android Development
 - 👯 I’m open to collaborate and see new minds
 
+I enjoy working with a variety of technologies and tools, including:
 
+<p align="left">
+  <a href="https://developer.android.com/studio" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/androidstudio.svg" alt="Android Studio" height="30" width="30"/>
+  </a>
+  <a href="https://kotlinlang.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/kotlin.svg" alt="Kotlin" height="30" width="30"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/cplusplus.svg" alt="C++" height="30" width="30"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/python.svg" alt="Python" height="30" width="30"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/git.svg" alt="Git" height="30" width="30"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/figma.svg" alt="Figma" height="30" width="30"/>
+  </a>
+  <a href="https://www.android.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/android.svg" alt="Android" height="30" width="30"/>
+  </a>
+</p>
 
 Contact
 📫 How to reach me: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)  
