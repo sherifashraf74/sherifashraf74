@@ -6,7 +6,7 @@
 I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills.
 - 🔭 I’m currently working on software engineering ...
 - 🌱 I’m currently learning Android Development
-- 👯 I’m open to collaborate and see new minds
+- 👯 I’m open to collaborate and see new minds and new opportunities
 
 I enjoy working with a variety of technologies and tools, including:
 
@@ -34,6 +34,15 @@ I enjoy working with a variety of technologies and tools, including:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" height="30" width="30"/>
   </a>
 </p>
+
+## GitHub Stats
+
+![Sherif's GitHub stats](https://github-readme-stats.vercel.app/api?username=sherifashraf&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sherifashraf&layout=compact&theme=radical)
+
+![Views](https://komarev.com/ghpvc/?username=sherifashraf&color=blue)
+![Developer GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbm1sZWN1YXJra2JydmgxcWxuM3BsY25wOWE5dmNxeDN4aTU0YWV5eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y4ak9Ki2GZCbJxAnJD/giphy.webp)
 
 Contact
 📫 How to reach me: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)  
