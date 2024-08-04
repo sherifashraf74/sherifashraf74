@@ -3,12 +3,13 @@
 *A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development*
 
 ## About Me
-I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills.
+I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills. I aspire to work in a collaborative environment and handle all aspects of the development lifecycle. My past work includes building user-focused, innovative, secure, and high-performance UIs, and developing clean code.
 - 🔭 I’m currently working on software engineering ...
 - 🌱 I’m currently learning Android Development
 - 👯 I’m open to collaborate and see new minds and new opportunities
 
-I enjoy working with a variety of technologies and tools, including:
+## Skills 
+I'm proficient in the design and development of mobile apps. I enjoy working with a variety of technologies and tools, including:
 
 <p align="left">
   <a href="https://developer.android.com/studio" target="_blank">
@@ -34,6 +35,9 @@ I enjoy working with a variety of technologies and tools, including:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" alt="Android" height="30" width="30"/>
   </a>
 </p>
+## My Design & Development Skills
+![Design & Development GIF](https://media.giphy.com/media/3o6gE5SgIgKzqU7W4I/giphy.gif)
+
 
 ## GitHub Stats
 
