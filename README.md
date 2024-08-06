@@ -16,7 +16,7 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"(https://github.com/user-attachments/assets/52d4f972-466f-45b8-998c-e141165eabe0)
 "(https://github.com/user-attachments/assets/29d476f8-9b42-4484-b573-f69e531a3644)" alt="Android Studio" height="50" width="50"/>
 </a>
-<a href="https://kotlinlang.org/" target="_blank">
+<a href="https://kotlinlang.org/" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" width="50"/>
 </a>
 <a href="https://isocpp.org/" target="_blank">
