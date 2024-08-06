@@ -11,7 +11,7 @@ I'm an Android Software Engineer with experience working on a variety of project
 ## Skills 
 I'm proficient in the design and development of mobile apps. I enjoy working with a variety of technologies and tools, including:
 
-<p align="middle">
+<p align="left">
 <a href="https://developer.android.com/studio" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"(https://github.com/user-attachments/assets/52d4f972-466f-45b8-998c-e141165eabe0)
 "(https://github.com/user-attachments/assets/29d476f8-9b42-4484-b573-f69e531a3644)" alt="Android Studio" height="50" width="50"/>
