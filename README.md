@@ -16,7 +16,7 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg"(https://github.com/user-attachments/assets/52d4f972-466f-45b8-998c-e141165eabe0)
 "(https://github.com/user-attachments/assets/29d476f8-9b42-4484-b573-f69e531a3644)" alt="Android Studio" height="50" width="50"/>
 </a>
-<a href="https://kotlinlang.org/" >
+<a href="https://kotlinlang.org/" target="_blank" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" alt="Kotlin" height="50" width="50"/>
 </a>
 <a href="https://isocpp.org/" target="_blank">
@@ -24,9 +24,6 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
 </a>
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="50" width="50"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="50" width="50"/>
 </a>
 <a href="https://www.figma.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="50" width="50"/>
