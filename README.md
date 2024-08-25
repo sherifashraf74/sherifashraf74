@@ -1,4 +1,4 @@
-![Developer GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJiNG5qdTRvNmdyNXQ3MXZ4MXpsZXo3MDhlOGxzeWZwbWQ1ZnN6MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0ExqBY0cJMYRQJQ4/giphy.webp)
+![SherifCard](https://github.com/user-attachments/assets/35fb2ba5-39af-41f7-84f0-09c85e3ed5ac)
 ## Hi there I'm Sherif👋
 *A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development*
 
