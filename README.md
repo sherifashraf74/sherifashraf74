@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://github.com/user-attachments/assets/35fb2ba5-39af-41f7-84f0-09c85e3ed5ac" alt="Card" height="400" width="300"/> </p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/35fb2ba5-39af-41f7-84f0-09c85e3ed5ac" alt="Card" height="25" width="25"/> </p>
 ## Hi there I'm Sherif👋
 *A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development*
 
