@@ -1,10 +1,8 @@
-<p align="left"> <img src="https://github.com/user-attachments/assets/35fb2ba5-39af-41f7-84f0-09c85e3ed5ac" alt="Card" height="150" width="150"/> </p>
-
 ## Hi there I'm Sherif👋
-*A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development*
+*A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development* <p align="right"> <img src="https://github.com/user-attachments/assets/35fb2ba5-39af-41f7-84f0-09c85e3ed5ac" alt="Card" height="150" width="150"/> </p>
 
-## About Me
-I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills. I aspire to work in a collaborative environment and handle all aspects of the development lifecycle. My past work includes building user-focused, innovative, secure, and high-performance UIs, and developing clean code.
+## About Me 
+I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills. I aspire to work in a collaborative environment and handle all aspects of the development lifecycle. My past work includes building user-focused, innovative, secure, and high-performance UIs, and developing clean code. 
 - 🔭 I’m currently working on software engineering ...
 - 🌱 I’m currently learning Android Development
 - 👯 I’m open to collaborate and see new minds and new opportunities
