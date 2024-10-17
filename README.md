@@ -1,5 +1,5 @@
 ## Hi there I'm Sherif👋
-<p align="center"><img src="https://github.com/user-attachments/assets/ea1f2d2b-a6e5-4ee2-9e42-b3025da795e1" alt="Card" height="250" width="250"/></p>
+<p align="center"><img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/></p>
 
 ## About Me 
 *A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development* 
