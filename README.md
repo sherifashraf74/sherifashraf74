@@ -1,5 +1,6 @@
 ## Hi there I'm Sherif👋
-<p align="left"> <img src="https://github.com/user-attachments/assets/35fb2ba5-39af-41f7-84f0-09c85e3ed5ac" alt="Card" height="150" width="150"/> </p>
+<p align="left"> <img src="![Component 1](https://github.com/user-attachments/assets/e8a5de96-6d94-46a9-b7c5-30ab07725c53)
+" alt="Card" height="150" width="150"/> </p>
 *A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development* 
 
 ## About Me 
