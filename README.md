@@ -1,11 +1,18 @@
 # Hi there, I'm Sherif 👋
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/> ## Contact Me
-- 📫 Email: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cherif-ashraf)
-- 🌐 [Portfolio](https://sherifashraf74.github.io/)
-- 📞 Phone: (20)120-306-4582
-</p>
+<table>
+  <tr>
+    <td align="left">
+      <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/>
+    </td>
+    <td align="right">
+      ## Contact Me
+      - 📫 Email: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)
+      - 💼 [LinkedIn](https://www.linkedin.com/in/cherif-ashraf)
+      - 🌐 [Portfolio](https://sherifashraf74.github.io/)
+      - 📞 Phone: (20)120-306-4582
+    </td>
+  </tr>
+</table>
 
 ## About Me
 A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development. I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills. I aspire to work in a collaborative environment and handle all aspects of the development lifecycle. My past work includes building user-focused, innovative, secure, and high-performance UIs, and developing clean code.
