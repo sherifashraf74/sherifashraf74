@@ -17,11 +17,17 @@
 </table>
 
 ## About Me
-A fresh graduate from the Faculty of Computer Science and enthusiastic about Android and mobile development. I'm an Android Software Engineer with experience working on a variety of projects and a great ambition to continue developing my skills. I aspire to work in a collaborative environment and handle all aspects of the development lifecycle. My past work includes building user-focused, innovative, secure, and high-performance UIs, and developing clean code.
 
-- 🔭 I’m currently working on software engineering...
-- 🌱 I’m currently learning Android Development
-- 👯 I’m open to collaborate and see new minds and new opportunities
+I am a fresh graduate from the Faculty of Computer Science with a strong enthusiasm for Android and mobile development. As an Android Software Engineer, I have gained experience working on diverse projects, driven by a desire to continually refine my skills. My goal is to work in a collaborative environment where I can engage in all aspects of the development lifecycle.
+
+### Key Focus Areas:
+- **User-Centric Design:** Committed to creating innovative, secure, and high-performance user interfaces.
+- **Clean Code:** Dedicated to writing maintainable and efficient code.
+
+### Current Endeavors:
+- 🔭 **Advancing Skills:** Actively working on enhancing my software engineering expertise.
+- 🌱 **Learning:** Continuously expanding my knowledge in Android Development.
+- 👯 **Collaboration:** Open to collaborating and eager to connect with new minds to explore exciting opportunities.
 
 ---
 
