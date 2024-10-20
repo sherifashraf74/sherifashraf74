@@ -1,5 +1,5 @@
 # Hi there, I'm Sherif 👋
-<p align="center">
+<p align="left">
   <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/>
 </p>
 
@@ -36,7 +36,7 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWJzdGZtenBjcW91Y3dwY21jdDNkajU2YjZibWE0aWVrdGFwZjY2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNfIqjpCY1zqfaLmd8/giphy.webp" alt="Design & Development GIF" width="500" />
 </p>
 
@@ -44,11 +44,11 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=sherifashraf74&show_icons=true&theme=radical" alt="Sherif's GitHub stats" style="vertical-align: middle;" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifashraf74&layout=compact&theme=radical" alt="Top Langs" style="vertical-align: middle;" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVyeHpoMzY1NzBhNWFnem1mOW9hN2xhOTh3d2J2c2lubW9rcTdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" alt="Developer GIF" width="300" style="vertical-align: middle;"/>
 </p>
 
