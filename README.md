@@ -1,6 +1,10 @@
 # Hi there, I'm Sherif 👋
 <p align="left">
-  <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/>
+  <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/> ## Contact Me
+- 📫 Email: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/cherif-ashraf)
+- 🌐 [Portfolio](https://sherifashraf74.github.io/)
+- 📞 Phone: (20)120-306-4582
 </p>
 
 ## About Me
