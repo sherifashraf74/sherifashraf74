@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/1b8f67e5-1b07-4316-954d-d6bff7ea9af7" alt="Card" height="350" width="350"/>
+      <img src="https://github.com/user-attachments/assets/1b8f67e5-1b07-4316-954d-d6bff7ea9af7" alt="Card" height="260" width="260"/>
     </td>
     <td align="left" style="vertical-align: top;">
       <h2>Contact Me</h2>
