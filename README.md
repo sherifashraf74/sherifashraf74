@@ -67,13 +67,6 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
 
 ---
 
-## Contact Me
-- 📫 Email: [sherifashrafali@gmail.com](mailto:sherifashrafali@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/cherif-ashraf)
-- 🌐 [Portfolio](https://sherifashraf74.github.io/)
-- 📞 Phone: (20)120-306-4582
-
----
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/cherif-ashraf" target="_blank">
