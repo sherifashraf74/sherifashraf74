@@ -4,7 +4,7 @@
     <td>
       <img src="https://github.com/user-attachments/assets/1b8f67e5-1b07-4316-954d-d6bff7ea9af7" alt="Card" height="250" width="250"/>
     </td>
-    <td align="left" style="vertical-align: top;">
+    <td >
       <h2>Contact Me</h2>
       <ul>
         <li>📫 Email: <a href="mailto:sherifashrafali@gmail.com">sherifashrafali@gmail.com</a></li>
