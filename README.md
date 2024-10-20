@@ -4,7 +4,7 @@
     <td align="left">
       <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="350" width="350"/>
     </td>
-    <td align="right" style="vertical-align: top;">
+    <td style="vertical-align: top;">
       <h2>Contact Me</h2>
       <p>- 📫 Email: <a href="mailto:sherifashrafali@gmail.com">sherifashrafali@gmail.com</a></p>
       <p>- 💼 <a href="https://www.linkedin.com/in/cherif-ashraf">LinkedIn</a></p>
