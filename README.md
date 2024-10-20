@@ -2,14 +2,16 @@
 <table>
   <tr>
     <td align="left">
-      <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="350" width="350"/>
+      <img src="https://github.com/user-attachments/assets/31bce4ec-53f8-4512-9feb-bb342af46d7d" alt="Card" height="250" width="250"/>
     </td>
-    <td style="vertical-align: top;">
+    <td align="left" style="vertical-align: top;">
       <h2>Contact Me</h2>
-      <p>- 📫 Email: <a href="mailto:sherifashrafali@gmail.com">sherifashrafali@gmail.com</a></p>
-      <p>- 💼 <a href="https://www.linkedin.com/in/cherif-ashraf">LinkedIn</a></p>
-      <p>- 🌐 <a href="https://sherifashraf74.github.io/">Portfolio</a></p>
-      <p>- 📞 Phone: (20)120-306-4582</p>
+      <ul>
+        <li>📫 Email: <a href="mailto:sherifashrafali@gmail.com">sherifashrafali@gmail.com</a></li>
+        <li>💼 <a href="https://www.linkedin.com/in/cherif-ashraf">LinkedIn</a></li>
+        <li>🌐 <a href="https://sherifashraf74.github.io/">Portfolio</a></li>
+        <li>📞 Phone: (20)120-306-4582</li>
+      </ul>
     </td>
   </tr>
 </table>
