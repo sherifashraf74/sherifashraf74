@@ -49,7 +49,6 @@ I'm proficient in the design and development of mobile apps. I enjoy working wit
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sherifashraf74&layout=compact&theme=radical" alt="Top Langs" style="vertical-align: middle;" />
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sherifashraf&color=blue" alt="Views" style="vertical-align: middle;"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTVyeHpoMzY1NzBhNWFnem1mOW9hN2xhOTh3d2J2c2lubW9rcTdtcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llarwdtFqG63IlqUR1/giphy.webp" alt="Developer GIF" width="300" style="vertical-align: middle;"/>
 </p>
 
